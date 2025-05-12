@@ -1,8 +1,7 @@
 <h1 style="text-align: center; font-size: 35px;">Anticipation des besoins énergétiques de bâtiments</h1>
 
 ## Description
- <br>
-Taille du jeu de données : 1,2 Mo <br>
+Taille du jeu de données : **1,2 Mo** <br>
 Le jeu de données se trouve dans le dossier `data`
 
 ### Procédure
