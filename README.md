@@ -2,7 +2,7 @@
 
 ## Description
 Taille du jeu de données : **1,2 Mo** <br>
-Le jeu de données se trouve dans le dossier `data`
+Le jeu de données se trouve dans le dossier `data/`
 
 ### Procédure
 - Exploration des données
