@@ -4,7 +4,7 @@
 Taille du jeu de données : **1,2 Mo** <br>
 Le jeu de données se trouve dans le dossier `data/`
 
-### Procédure
+## Procédure
 - Exploration des données
 - Nettoyage des données
 - Séparation des cibles 
@@ -14,7 +14,7 @@ Le jeu de données se trouve dans le dossier `data/`
 - Analyse de l'impact des features avec SHAP
 
 
-### Dossiers & fichiers
+## Dossiers & fichiers
 - **graphiques** &rarr; Dossier contenant les graphiques enregistrés au cours de l'analyse.
 - **data** &rarr; Dossier contenant les données ainsi que les dataframes enregistrés au format .csv au cours du projet.
 - **notebook_eda.ipynb** &rarr; Notebook comportant l'analyse exploratoire des données.
