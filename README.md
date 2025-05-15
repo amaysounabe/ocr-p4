@@ -28,6 +28,6 @@ Pour une utilisation en local :
 
 ```bash
 git clone https://github.com/amaysounabe/ocr-p4.git
-cd ocr-p3
+cd ocr-p4
 pip install -r requirements.txt
 ```
